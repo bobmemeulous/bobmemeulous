@@ -1,0 +1,46 @@
+h1{
+    color: pink;
+}
+
+body{
+    background-color: white;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+h2{
+    color: yellow;
+}
+
+#mincar{
+    color: green;
+}
+
+#fortnut{
+    color: blue;
+}
+
+#bigchungus{
+    color: grey;
+}
+
+#stream-sniping{
+    color: purple;
+}
+
+#bongocat{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+#hugo.hover{
+    opacity:0.5;
+}
